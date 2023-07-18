@@ -97,6 +97,44 @@ header{
     height: 256px;
 }
 
+.featured{
+    display: flex;
+    justify-content: center;
+    padding: 15px 150px;
+}
+.featured-description{
+    margin-left: 100px;
+}
+.featured-title{
+    color: #0A0826;
+    font-family: Poppins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;   
+    line-height: 28px; 
+}
+.featured-para{
+    width: 501px;
+    height: 88px;
+}
+
+
+footer{
+    text-align: center;
+    background-color: #0A0826;
+}
+.footer-description{
+    color: #FFF;
+    padding-top: 8px;
+}
+.logo-photo{
+    width: 32px;
+    height: 32px;
+    color: #FFF;
+    background-color: #617579;
+    margin: 5px;
+}
+
 
 
 /* this is the place of media query */
